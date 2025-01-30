@@ -112,4 +112,4 @@ We can deploy the project to:
 ---
 
 ## **📝 License**
-This project is **open-source** under the **MIT License**.
+- Not yet
