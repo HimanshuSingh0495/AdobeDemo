@@ -21,7 +21,7 @@ It follows **best practices** for **logging, metrics, CORS, security, and DevOps
 - **Frontend:** React, Adobe React Spectrum, Axios
 - **Database:** None (Stateless)
 - **Containerization:** Docker
-- **Monitoring:** Micrometer, Prometheus, Grafana
+- **Monitoring:** Prometheus (not implemented)
 - **Cloud Deployment:** AWS/GCP/Heroku
 
 ---
