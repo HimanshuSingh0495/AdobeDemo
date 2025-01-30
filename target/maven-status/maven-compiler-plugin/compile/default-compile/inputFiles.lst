@@ -1,0 +1,8 @@
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/config/CorsConfig.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/controller/RomanNumeralController.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/model/RomanNumeralResponse.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/model/ErrorResponse.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/config/WebConfig.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/exception/GlobalExceptionHandler.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/RomanNumeralApplication.java
+/Users/kpf/Desktop/adobe/src/main/java/com/adobe/romannumeralapi/exception/InvalidInputException.java
